@@ -1,6 +1,6 @@
 # Download Dogs With Eyebrows!!!!!
 
-![Image of Dog With Eyebrow] (https://i.ytimg.com/vi/uK9bJGejJ0w/hqdefault.jpg)
+![Image of Dog With Eyebrow](https://i.ytimg.com/vi/uK9bJGejJ0w/hqdefault.jpg)
 
 What do you do when you're sad?
 
